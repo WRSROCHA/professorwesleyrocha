@@ -9,7 +9,7 @@
 
 - 🌱 Atualmente estou me dedicando **JavaScript, PHP e MySql**
 
-- 💬 Pergunte-me sobre **PHP e MySql**
+- 💬 Pergunte-me sobre **MySql**
 
 - 🌎 Meu Site:https://betterwebdesign.com.br/
 
