@@ -1,7 +1,7 @@
 ![banner](https://github.com/WRSROCHA/portfolio/blob/main/banner.png?raw=true)
 
 <h1 align="center"> Oi 👋, Eu sou Wesley Rocha | Web Designer</h1>
-<h3 align="center">Aqui você pode encontrar projetos usando Html, Css, JavaScript, PHP e MySql</h3>
+<h3 align="center">Aqui você pode encontrar projetos em Html, Css, JavaScript, PHP e MySql</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wrsrocha&label=Profile%20views&color=0e75b6&style=flat" alt="wrsrocha" /> </p>
 
