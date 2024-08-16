@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wrsrocha&label=Profile%20views&color=0e75b6&style=flat" alt="wrsrocha" /> </p>
 
-- 🔭 No momento estou trabalhando com **HTML,CSS, JavaScript, PHP e MySql**
+- 🔭 No momento estou trabalhando com **Algoritmo,HTML,CSS,JavaScript,PHP e MySql**
 
 - 🌱 Atualmente estou me dedicando **JavaScript, PHP e MySql**
 
