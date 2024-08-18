@@ -3,7 +3,7 @@
 <h1 align="center"> Oi 👋, Eu sou Wesley Rocha | Web Designer</h1>
 <h3 align="center">Aqui você pode encontrar projetos em Html, Css, JavaScript, PHP e MySql</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wrsrocha&label=Profile%20views&color=0e75b6&style=flat" alt="wrsrocha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wrsrocha&label=Profile%20views&color=0e75b6&style=flat" alt="professorwesleyrocha" /> </p>
 
 - 🔭 No momento estou trabalhando com **Algoritmo, HTML, CSS, JavaScript, PHP e MySql**
 
