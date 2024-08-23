@@ -1,4 +1,4 @@
-![bannergit](https://github.com/WRSROCHA/portfolio/blob/main/bannergit.png?raw=true).
+![bannergit](https://github.com/professorwesleyrocha/html5css/blob/main/bannergit.png).
 
 <h1 align="center"> Oi 👋, Eu sou Wesley Rocha | Web Designer</h1>
 <h3 align="center">Aqui você pode encontrar projetos em Html, Css, JavaScript, PHP e MySql</h3>
